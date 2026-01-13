@@ -22,9 +22,13 @@
 ## 📝 Tentang Proyek
 
 **Fitur Utama:**
-* ✨ MUDAH DIGUNAKAN
-* ✨ WEB BUATAN SENDIRI
+* Real-time Inference: Melakukan klasifikasi teks secara instan tepat setelah input diberikan.
 
+* Transfer Learning Integration: Memanfaatkan model bahasa canggih untuk akurasi tinggi dengan data latih minimal.
+
+* Responsive UI: Antarmuka yang optimal baik di perangkat desktop maupun mobile.
+
+* Cloud Integration: Penyimpanan riwayat dan manajemen data menggunakan Firebase.
 
 ---
 
@@ -32,14 +36,14 @@
 
 Untuk informasi lebih detail mengenai teknis dan alur proyek, silakan akses berkas di bawah ini:
 
-* **[📄 Laporan Proyek (PDF)](https://github.com/ricky1211/UAS_Bisinis-Elektornik2/blob/main/BisnisElektronik-UAS%20(1).pdf)**
+* **[📄 Laporan Proyek (PDF)](https://github.com/ricky1211/Project_UAS_NLP/blob/main/nlp-UAS.pdf)**
 * **[🌐 Link Aplikasi / Demo](https://project-uas-nlp.vercel.app/)**
 
 ---
 
 ## 🛠️ Teknologi yang Digunakan
-* **Bahasa:** [ JavaScript, Python, CSS, HTML]
-* **Framework:** [ React, Vite, Vercel, ]
+* **Bahasa:** [ Model Machine Learning & Logic]
+* **Framework:** [ UI Library, Build Tool, Vercel, ]
 * **Database:** [Firebase]
 
 ---
